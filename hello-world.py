@@ -7,6 +7,7 @@ def main():
     print("Hello, Jenkins World!")
     print("이 애플리케이션은 Jenkins 파이프라인으로 빌드됩니다.")
     print("자동화 테스트: 코드 변경 감지 확인! 🚀")
+    print("🌿 DEVELOP 브랜치에서 실행 중입니다!")
     
     # 간단한 계산 예제
     numbers = [1, 2, 3, 4, 5]
