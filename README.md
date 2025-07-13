@@ -41,9 +41,14 @@ python3 -m unittest test_hello_world.py
 - [x] 테스트 코드 작성
 - [x] Jenkinsfile 작성
 - [x] Jenkins 설치 가이드 작성
-- [ ] Jenkins 설치 및 설정
-- [ ] CI/CD 파이프라인 구축
-- [ ] 자동화된 빌드 및 테스트
+- [x] Jenkins 설치 및 설정
+- [x] CI/CD 파이프라인 구축
+- [x] 자동화된 빌드 및 테스트
+- [x] Freestyle Project (배치 작업 스케줄링)
+- [x] Multibranch Pipeline (다중 브랜치 자동 감지)
+- [ ] 파이프라인 최적화 (병렬 처리, 조건부 실행)
+- [ ] Blue Ocean UI (시각적 파이프라인 편집기)
+- [ ] 알림 설정 (이메일, Slack 등)
 
 ## 다음 단계
 

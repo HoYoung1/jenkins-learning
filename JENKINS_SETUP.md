@@ -112,9 +112,12 @@ ls -la /usr/local/var/lib/jenkins
 
 ## 9. 다음 단계
 
-- [ ] Jenkins 설치 완료
-- [ ] GitHub 저장소 생성 및 푸시
-- [ ] Jenkins 파이프라인 생성
-- [ ] 첫 번째 빌드 실행
-- [ ] 파이프라인 최적화
+- [x] Jenkins 설치 완료
+- [x] GitHub 저장소 생성 및 푸시
+- [x] Jenkins 파이프라인 생성
+- [x] 첫 번째 빌드 실행
+- [x] Freestyle Project (배치 작업 스케줄링)
+- [x] Multibranch Pipeline (다중 브랜치 자동 감지)
+- [ ] 파이프라인 최적화 (병렬 처리, 조건부 실행)
+- [ ] Blue Ocean UI (시각적 파이프라인 편집기)
 - [ ] 알림 설정 (이메일, Slack 등) 
